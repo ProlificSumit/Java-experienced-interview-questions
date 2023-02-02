@@ -1,0 +1,3 @@
+name=John, id=1010
+name   =   Doe, id   =1011
+name=Sam, id=    1012
